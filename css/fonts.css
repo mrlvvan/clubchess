@@ -1,0 +1,72 @@
+
+@font-face {
+  font-family: "Golos Text";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    local("Golos Text Regular"),
+    local("GolosText-Regular"),
+    url("../assets/fonts/GolosText-Regular.woff2") format("woff2"),
+    url("../assets/fonts/GolosText-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Golos Text";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src:
+    local("Golos Text Medium"),
+    local("GolosText-Medium"),
+    url("../assets/fonts/GolosText-Medium.woff2") format("woff2"),
+    url("../assets/fonts/GolosText-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Golos Text";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src:
+    local("Golos Text SemiBold"),
+    local("GolosText-SemiBold"),
+    url("../assets/fonts/GolosText-SemiBold.woff2") format("woff2"),
+    url("../assets/fonts/GolosText-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Golos Text";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    local("Golos Text Bold"),
+    local("GolosText-Bold"),
+    url("../assets/fonts/GolosText-Bold.woff2") format("woff2"),
+    url("../assets/fonts/GolosText-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    local("Merriweather Regular"),
+    local("Merriweather_36pt Regular"),
+    url("../assets/fonts/Merriweather_36pt-Regular.woff2") format("woff2"),
+    url("../assets/fonts/Merriweather_36pt-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    local("Merriweather Bold"),
+    local("Merriweather_36pt Bold"),
+    url("../assets/fonts/Merriweather_36pt-Bold.woff2") format("woff2"),
+    url("../assets/fonts/Merriweather_36pt-Bold.woff") format("woff");
+}
